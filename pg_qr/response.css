@@ -1,0 +1,15 @@
+@media (max-width: 375px) {
+    body {
+      font-size: 2vw;
+    
+    }
+    .container {
+      max-width: 330px;
+      width: 100%;
+      max-height: 525px;
+      height: 100%;
+    }
+  }
+
+
+    
