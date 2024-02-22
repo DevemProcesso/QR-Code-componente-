@@ -15,7 +15,7 @@ Frontend Mentor - QR code component
 
 ### Captura de tela
 
-![](./captura de tela.jpg)
+![](./Captura de tela 2024-02-22 040145.png)
 
 
 ###Links
