@@ -1,2 +1,2 @@
 # QR-Code-componente-
-QR-Code Mentor
+Frontend Mentor - QR code component
